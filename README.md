@@ -1,5 +1,5 @@
 # projeto-automato
-
+Confira o projeto aqui -> https://automatos-26f49.web.app/
 ## Project setup
 ```
 npm install
